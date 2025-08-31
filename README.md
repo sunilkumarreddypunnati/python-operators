@@ -11,7 +11,7 @@ Each task is designed to build clarity and confidence in handling operators—es
 
 | 🧪 Task File | 📄 Description | 📷 Output Screenshot |
 |-------------|----------------|-----------------------|
-| [arithmatic operatos.py](./arithmatic%20operatos.py) | ➕ Take two numbers and perform arithmetic operations (`+`, `-`, `*`, `/`, `//`, `%`, `**`) | ![Arithmatic Operators](./arithmetic%20operators.png) |
+| [arithmatic operatos.py](./arithmatic%20operatos.py) | ➕ Take two numbers and perform arithmetic operations (`+`, `-`, `*`, `/`, `//`, `%`, `**`) | ![Arithmetic Operators](./arithmatic%20operators.png)
 | [comparision operators.py](./comparision%20operators.py) | ⚖️ Compare two numbers with (`==`, `!=`, `>`, `<`, `>=`, `<=`) | ![Comparison Operators](./comparision%20operators.png) |
 | [logical operators.py](./logical%20operators.py) | 🔗 Use logical operators (`and`, `or`, `not`) to check ranges, divisibility, and odd/even | ![Logical Operators](./logical%20operators.png) |a
 | [assignment operators.py](./assignment%20operators.py) | 📌 Apply assignment operators (`+=`, `-=`, `*=`, `/=`, `//=`, `%=`, `**=`) step by step | ![Assignment Operators](./assignment%20operators.png) |
